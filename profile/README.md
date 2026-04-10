@@ -1,6 +1,7 @@
-# <p align="center">
-  <img src="https://github.com/open-outbox.png" width="30" alt="Open Outbox Logo"> Open Outbox
-</p> 
+<h1 align="center">
+  <img src="https://github.com/open-outbox.png" width="35" style="vertical-align: middle;">
+  <span style="vertical-align: middle;">Open Outbox</span>
+</h1>
 
 **The reliable, language-agnostic specification and toolkit for the Transactional Outbox Pattern.**
 
