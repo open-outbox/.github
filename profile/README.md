@@ -1,5 +1,5 @@
 # <p align="center">
-  <img src="https://github.com/open-outbox.png" width="200" alt="Open Outbox Logo"> Open Outbox
+  <img src="https://github.com/open-outbox.png" width="30" alt="Open Outbox Logo"> Open Outbox
 </p> 
 
 **The reliable, language-agnostic specification and toolkit for the Transactional Outbox Pattern.**
