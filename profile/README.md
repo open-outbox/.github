@@ -8,7 +8,7 @@
 Open Outbox provides a standardized way to ensure "at-least-once" delivery between your database and message brokers (Kafka, NATS, etc.), preventing data loss during system failures.
 
 ### 🚀 Key Components
-* **[The Spec](https://github.com/open-outbox/spec):** The core protocol and data models.
+* **[Specification](https://github.com/open-outbox/spec):** The core protocol and data models.
 * **[Relay Service](https://github.com/open-outbox/relay):** Our high-performance Go implementation of the outbox worker.
 * **[SDKs]:** Libraries to easily integrate with your favorite languages (Coming Soon).
 
