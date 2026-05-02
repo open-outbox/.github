@@ -16,4 +16,4 @@ Open Outbox provides a standardized way to ensure "at-least-once" delivery betwe
 We are currently in **Active Development**. Check out our [Roadmap](https://open-outbox.dev/project/roadmap/) to see where we're headed.
 
 ---
-[Documentation](https://open-outbox.dev) • [Community Discord](https://discord.gg/6vX9g85S) • [Contributing](https://open-outbox.dev/contribute/)
+[Documentation](https://open-outbox.dev) • [Community Discord](https://discord.gg/6vX9g85S) • [Contributing](https://open-outbox.dev/project/contributing/)
