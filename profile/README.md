@@ -4,7 +4,7 @@
 
 ---
 
-### 🌐 [Visit the Documentation](https://open-outbox.github.io)
+### 🌐 [Visit the Documentation](https://open-outbox.dev)
 Open Outbox provides a standardized way to ensure "at-least-once" delivery between your database and message brokers (Kafka, NATS, etc.), preventing data loss during system failures.
 
 ### 🚀 Key Components
