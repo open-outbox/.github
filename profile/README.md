@@ -13,7 +13,7 @@ Open Outbox provides a standardized way to ensure "at-least-once" delivery betwe
 * **[SDKs]:** Libraries to easily integrate with your favorite languages (Coming Soon).
 
 ### 🛠 Status
-We are currently in **Active Development**. Check out our [Roadmap](https://open-outbox.github.io/spec/introduction) to see where we're headed.
+We are currently in **Active Development**. Check out our [Roadmap](https://open-outbox.dev/project/roadmap/) to see where we're headed.
 
 ---
 [Documentation](https://open-outbox.dev) • [Community Discord](https://discord.gg/u9xCDAwpH2) • [Contributing](https://open-outbox.dev/contribute/)
